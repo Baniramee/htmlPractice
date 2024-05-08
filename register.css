@@ -5,7 +5,7 @@ body {
 
 .register {
     margin: 100px auto;
-    width: 600px;
+    width: 700px;
     background-color: white;
     padding: 20px;
     border-radius: 5px;
@@ -19,7 +19,7 @@ h1 {
 .register-field-icon {
     display: inline-block;
     text-align: left;
-    width: 100px;
+    width: 130px;
 }
 
 .control-group {
@@ -45,7 +45,7 @@ input {
     width: 250px;
     padding: 10px 0;
     border-radius: 3px;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .register-link {
