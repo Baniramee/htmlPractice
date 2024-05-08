@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background-color: #fef7e9;
+}
+
+.form-contents{
+    width: 600px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+.login-form{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.login-form h2{
+    text-align: center;
+}
+
+.control-group{
+    margin-bottom: 15px;
+}
+
+.control-position{
+    text-align: center;
+}
+
+.btn{
+    width: 150px;
+    padding:5px 0;
+    background-color: #fc9e24;
+    color: rgb(253, 238, 202);
+    margin-top: 10px;
+}
